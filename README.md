@@ -29,7 +29,4 @@ An end-to-end machine learning solution that predicts future retail sales with h
 - **Dataset:** Public Kaggle Retail Dataset
 - **Other Tools:** Jupyter Notebook, Git
 
----
-
-## 📁 Folder Structure
 
