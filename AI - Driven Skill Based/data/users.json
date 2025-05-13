@@ -1,0 +1,34 @@
+{
+    "ABC": {
+        "password": "$2b$12$myywjmdJm.JSMfLnIzJwVOuXs3fIoFtFRAV7EgbjjlYPV9p/mz3jW",
+        "role": "Job Seeker"
+    },
+    "XYZ": {
+        "password": "$2b$12$XTvGpf1Kpp1dbOP0dQI3QOYl73CTpy5NaJwvVkAL1DPUWMSX7045W",
+        "role": "Employer"
+    },
+    "Jane": {
+        "password": "$2b$12$NRlp78Jgsag8VaRKn9zd0.FOK0MepJU0PN26Gqj4S0JLIyOXer1Ui",
+        "role": "Job Seeker"
+    },
+    "Mark": {
+        "password": "$2b$12$ES3d55k5iZovnsiRLe92texPqq.JtSC2M7jn/5QtLYUNQvomB9P/y",
+        "role": "Job Seeker"
+    },
+    "Lisa": {
+        "password": "$2b$12$137qTeWSPrTOxb1vgUHyhuqSA8CjXebki6oNqqWmOIxMfeh7jVbt2",
+        "role": "Job Seeker"
+    },
+    "Alex": {
+        "password": "$2b$12$mZiJFO7kG0f0eay3PJdHQuw94G2oYSn7qKdNN0zPRMzTxe0w3ViTS",
+        "role": "Job Seeker"
+    },
+    "DEF": {
+        "password": "$2b$12$t1JSisbodW0Oy9Hb2htkAOdj.lyIO2S4i8IrnDI37PLKTJLwLchmC",
+        "role": "Job Seeker"
+    },
+    "DataViz": {
+        "password": "$2b$12$fncwtRK2HTcD7qD09hodVeOBo1FHBZsBVvsYAHT6K4QK2PkZo1yi6",
+        "role": "Employer"
+    }
+}

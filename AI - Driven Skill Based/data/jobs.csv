@@ -1,0 +1,7 @@
+Employer,Title,Company,Location,Experience,Skills,Salary,Type
+XYZ,System Administrator,SONI AND SONI ,"Ahmedabad, Gujarat, India",2,"Network Administration, Server Management, Troubleshooting, Security Management, Backup and Recovery, Scripting (e.g. PowerShell), Virtualization, Hardware Maintenance,",23300,Part-Time
+ABC Corp,DevOps Engineer,ABC Technologies,"Bangalore, India",3,"Python, AWS, Docker, Kubernetes, CI/CD, Terraform, SQL",120000,Full-Time
+XYZ Ltd,Machine Learning Engineer,XYZ Solutions,"New York, USA",5,"Machine Learning, Deep Learning, TensorFlow, Python, Cloud Computing, SQL",140000,Full-Time
+SecureSoft,Cloud Security Architect,SecureSoft Inc.,"San Francisco, USA",7,"Project Management, Agile, Scrum, Cloud Security, DevSecOps, Risk Management",180000,Full-Time
+DataViz,Data Analyst,DataViz Analytics,"Mumbai, India",2,"Python, SQL, Pandas, Data Analysis, Tableau, Power BI",80000,Full-Time
+WebSoft,Full-Stack Developer,WebSoft Pvt Ltd,"Delhi, India",1,"JavaScript, React, Node.js, Express.js, MongoDB, REST APIs",60000,Internship
